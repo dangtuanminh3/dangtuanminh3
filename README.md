@@ -9,4 +9,5 @@ Languages:
 </div>
 
 Status:
-LEARNING & PARTICIPATING IN FRC
+FRC
+Learning Android Software Development
