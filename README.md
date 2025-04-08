@@ -9,5 +9,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" **alt="JavaScript" width="40" height="40"/>
 </div>
 
-#### WARNING: Most of my projects are outdated and probably do not work. 
-#### Repos created 2024 and beyond should work. Please communicate any issues so I can fix them!
+#### Repos created 2024 and beyond are working. If not, please communicate any issues so I can fix them!
